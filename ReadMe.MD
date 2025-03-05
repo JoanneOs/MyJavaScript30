@@ -1,1 +1,1 @@
-I have modified, studied, and changed this code for my own learning and development. This aligns with the non-commercial, educational purpose of the JavaScript30 course.
+I have modified, studied, and changed this code for my own learning and development, based on advice from my instructor, Tishana from PerScholas, who recommended the JavaScript30 course as a valuable resource for learning JavaScript. This aligns with the non-commercial, educational purpose of the course.
