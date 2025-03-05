@@ -1,0 +1,1 @@
+I have modified, studied, and changed this code for my own learning and development. This aligns with the non-commercial, educational purpose of the JavaScript30 course.
